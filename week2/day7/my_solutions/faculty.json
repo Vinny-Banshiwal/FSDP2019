@@ -1,0 +1,27 @@
+[
+
+{ "faculty1":{ "fname":"vinny",
+            "lname":"Banshiwal",
+           
+            "department":"It",
+            "research_areas":["ml","dl"],
+            "contact_detail":[{"mobile":52485154,"email":"vinny@gmail.com"}]
+
+           }
+},
+{"faculty2":{ "fname":"shivangi ",
+            "lname":"sharma",
+           
+            "department":"It",
+            "research_areas":["ml","dl"],
+            "contact_detail":[{"mobile":656485154,"email":shivangi@gmail.com"}]
+
+           }
+           
+ }
+]
+
+
+
+
+

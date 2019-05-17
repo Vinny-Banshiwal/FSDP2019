@@ -1,0 +1,18 @@
+json_student="
+{
+
+"student":{"fname":"vinny",
+            "lname":"Banshiwal",
+           
+            "department":"It",
+            "research_areas":["ml","dl"],
+            "contact_detail":[{"mobile":52485154,"email":"vinny@gmail.com"}]
+
+           }
+
+
+
+
+}
+
+"
